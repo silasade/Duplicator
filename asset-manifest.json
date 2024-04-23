@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Duplicator/static/css/main.867c0983.css",
-    "main.js": "/Duplicator/static/js/main.ecfc1b47.js",
+    "main.js": "/Duplicator/static/js/main.eaf9c5f0.js",
     "static/js/453.fabf944b.chunk.js": "/Duplicator/static/js/453.fabf944b.chunk.js",
     "static/media/bg-desktop-light.jpg": "/Duplicator/static/media/bg-desktop-light.3508d620efd5a52bb4ce.jpg",
     "static/media/bg-desktop-dark.jpg": "/Duplicator/static/media/bg-desktop-dark.73e47dbb723ebc772ef0.jpg",
@@ -11,11 +11,11 @@
     "static/media/icon-moon.svg": "/Duplicator/static/media/icon-moon.6c03114b495d05f4380b3c544d9afe2a.svg",
     "static/media/icon-cross.svg": "/Duplicator/static/media/icon-cross.6ee81d30b75cab19d6f7314624fcc4d6.svg",
     "main.867c0983.css.map": "/Duplicator/static/css/main.867c0983.css.map",
-    "main.ecfc1b47.js.map": "/Duplicator/static/js/main.ecfc1b47.js.map",
+    "main.eaf9c5f0.js.map": "/Duplicator/static/js/main.eaf9c5f0.js.map",
     "453.fabf944b.chunk.js.map": "/Duplicator/static/js/453.fabf944b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.867c0983.css",
-    "static/js/main.ecfc1b47.js"
+    "static/js/main.eaf9c5f0.js"
   ]
 }
