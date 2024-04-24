@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Duplicator/static/css/main.f182fd4c.css",
-    "main.js": "/Duplicator/static/js/main.80e2e6aa.js",
+    "main.css": "/Duplicator/static/css/main.bf0cd205.css",
+    "main.js": "/Duplicator/static/js/main.f688a5d6.js",
     "static/js/453.fabf944b.chunk.js": "/Duplicator/static/js/453.fabf944b.chunk.js",
     "static/media/bg-desktop-light.jpg": "/Duplicator/static/media/bg-desktop-light.3508d620efd5a52bb4ce.jpg",
     "static/media/bg-desktop-dark.jpg": "/Duplicator/static/media/bg-desktop-dark.73e47dbb723ebc772ef0.jpg",
@@ -10,12 +10,12 @@
     "static/media/icon-sun.svg": "/Duplicator/static/media/icon-sun.1ff3569ce9af90554ef884018ac81eaa.svg",
     "static/media/icon-moon.svg": "/Duplicator/static/media/icon-moon.6c03114b495d05f4380b3c544d9afe2a.svg",
     "static/media/icon-cross.svg": "/Duplicator/static/media/icon-cross.6ee81d30b75cab19d6f7314624fcc4d6.svg",
-    "main.f182fd4c.css.map": "/Duplicator/static/css/main.f182fd4c.css.map",
-    "main.80e2e6aa.js.map": "/Duplicator/static/js/main.80e2e6aa.js.map",
+    "main.bf0cd205.css.map": "/Duplicator/static/css/main.bf0cd205.css.map",
+    "main.f688a5d6.js.map": "/Duplicator/static/js/main.f688a5d6.js.map",
     "453.fabf944b.chunk.js.map": "/Duplicator/static/js/453.fabf944b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f182fd4c.css",
-    "static/js/main.80e2e6aa.js"
+    "static/css/main.bf0cd205.css",
+    "static/js/main.f688a5d6.js"
   ]
 }
