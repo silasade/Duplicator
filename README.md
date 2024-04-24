@@ -14,6 +14,8 @@ A React Js web app that deletes the duplicates of a letter within a word when th
     3. gsap.
     4. LocalStorage
     5. React-howler.\
+## Live URL
+    View the web app on this link https://silasade.github.io/Duplicator
 ### Installation
   1. Download the project from Github.
   2. Type "npm run" in the terminal to install any dependecies the project might need.
