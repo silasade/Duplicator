@@ -12,7 +12,7 @@
      3. When a user tries to delete a letter that does not have a duplicate, a popup shows notifyin the user that there are no duplicates of the letter.
      4. When there are no more duplicates within a word, a toast/notification popups, notifying the user that all duplicates has been removed
 
-##Live URL
+## Live URL
   https://silasade.github.io/Duplicator/
 ## Tools and Libraries used
   1. React Js
