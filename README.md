@@ -3,10 +3,10 @@
 # Features
   1. Theme Toggler- User can change between dark and light mode by clicking one the dark/light dutton
   2. History- User can view all the words ever inputted in the web application by clicking  on 'View history'
-  3. Note the above features are accessed when the user clicks the menu/offCanvas button
+  3. Note the above features are accessed when the user clicks the menu/offCanvas button and clicking on the "Duplicator" in the menu returns the user back to the homepage
   4. Duplicates removal- when a word is entered the user can decide to click the 'X' icon to delete the duplicate of a letter
   5. Notification Messages
-     There are 3 cases where users receive notification messaes
+     There are 4 cases where users receive notification messaes
      1. When the user tries to submit a word that contains a number or a number itself
      2. When a user enters a word, if the word contains duplicate letters, a popup shows notifying the user what letter has duplicates and how many duplicates
      3. When a user tries to delete a letter that does not have a duplicate, a popup shows notifyin the user that there are no duplicates of the letter.
