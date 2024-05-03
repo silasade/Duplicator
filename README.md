@@ -21,5 +21,5 @@
 ### Installation
   1. Download the project folder from github
   2. Type 'cd project name' on the terminal
-  3. Type 'npm run' on the terminal to download all the project dependencies
+  3. Type 'npm install' on the terminal to download all the project dependencies
   4. Type 'npm start' to view the web app on the browser
